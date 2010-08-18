@@ -1,0 +1,1403 @@
+NAZWA I ADRES WYKONAWCY, NA RZECZ KTÓREGO ZOSTA£A WYDANA DECYZJA O UDZIELENIU ZAMÓWIENIA
+
+Oprócz zaznaczenia odpowiedniego pola (odpowiednich pól) powy¿ej, proszê w jasny i wyczerpuj¹cy sposób wyjaœniæ, dlaczego udzielenie zamówienia bez uprzedniej publikacji og³oszenia o zamówieniu w Dzienniku Urzêdowym Unii Europejskiej jest zgodne z przepisami, podaj¹c przy tym odpowiednie fakty i, w stosownych przypadkach, konkluzje prawne zgodnie z artyku³ami w³aœciwej dyrektywy (maksymalnie 500 s³ów).
+
+Zamówienia udzielane w ramach umowy ramowej zgodnie z w³aœciw¹ dyrektyw¹ (tylko w przypadku zamówieñ sektorowych).
+
+Ze wzglêdu na wyst¹pienie pilnej koniecznoœci spowodowanej wydarzeniami, któiych instytucja zamawiaj¹ca (podmiot zamawiaj¹cy) nie mog³a (nie móg³)  przewidzieæ,  oraz zgodnie z warunkami œciœle okreœlonymi we w³aœciwej dyrektywie.
+
+Zamówienie jest udzielane wy³¹cznie na potrzeby prac badawczych, eksperymentalnych, naukowych lub rozwojowych, zgodnie z warunkami okreœlonymi we w³aœciwej dyrektywie (w przypadku zamówieñ objêtych dyrektyw¹ 2004/18/WE wy³¹cznie dla dostaw).
+
+
+z dyrektyw¹ 2004/18/WE lub 2004/17/WE
+
+
+Z wyj¹tkiem us³ug finansowych zwi¹zanych z emisj¹, sprzeda¿¹, nabyciem lub transferem papierów wartoœciowych lub innych instrumentów finansowych oraz us³ug œwiadczonych przez bank centralny.
+Równie¿ wy³¹czone: us³ugi obejmuj¹ce nabycie, najem lub dzier¿awê - bez wzglêdu na sposób finansowania - gruntów, istniej¹cych budynków i innych nieruchomoœci, albo dotycz¹ce praw do nich; niemniej jednak przepisom w³aœciwej dyrektywy podlegaj¹ zawarte w dowolnej formie umowy o œwiadczenie us³ug finansowych równoczeœnie, przed lub po zawarciu umowy dotycz¹cej nabycia, najmu lub dzier¿awy.
+
+Z wyj¹tkiem us³ug badawczych i rozwojowych innych ni¿ te, z których po¿ytki przypadaj¹ wy³¹cznie instytucji zamawiaj¹cej w celu wykorzystania ich w trakcie prowadzenia dzia³alnoœci w³asnej, pod warunkiem ¿e œwiadczona us³uga jest w ca³oœci op³acona przez tê instytucjê zamawiaj¹c¹.
+
+Kategorie us³ug w rozumieniu art. 32 i za³¹cznika XVIIB do dyrektywy 2004/17/WE i/lub art. 21 i za³¹cznika IIB do dyrektywy 2004/18/WE.
+
+
+Poni¿ej proszê podaæ uzasadnienie udzielenia zamówienia bez uprzedniej publikacji og³oszenia o zamówieniu w Dzienniku Urzêdowym Unii Europejskiej. Uzasadnienie to musi byæ zgodne z odpowiednimi artyku³ami dyrektywy 2004/18/WE w przypadku instytucji zamawiaj¹cych lub dyrektywy 2004/17/WE w przypadku podmiotów zamawiaj¹cych (proszê zaznaczyæ poni¿ej w³aœciwe pole (pola) oraz udostêpniæ dodatkowe informacje).
+
+Techplanet.pl
+q-x-a.com
+
+
+
+@If(
+@Trim(odOsoba12+odOsoba13+odOsoba14a+odOsoba14b+odOsoba15+odOsoba16+odOsoba17+odOsoba18a+odOsoba18b+odOsoba19+odOsoba20+odOsoba21a+odOsoba21b+odOsoba22)!=""; "Odrzucone";
+poOsoba22!="";"Przyjête do realizacji";
+
+
+
+
+
+
+
+
+
+
+
+
+(WartSzacPLN<10000) & ((poOsoba21a!="") | (poOsoba21b!="")); "Zatwierdzone";
+(WartSzacPLN>10000) & ((poOsoba21a!="") & (poOsoba21b!="")); "Zatwierdzone";
+"Zainicjowane")
+
+
+DDRAM 512MB 3200 PC400			- 141,00 
+Kingston Compact Flash 512MB - S	- 75,00 
+
+
+
+
+czesc. 
+Na pl.comp.lang.delphi napisa³eœ
+> Chcê ,abyœ napisa³ komunikator w Delphi. 
+Moja propozycja: 3 lata temu napisa³em komunikator w Delphi na zaliczenie.
+G³ówne cechy programu:
+- w³asny protokó³ komunikacji
+- wielu uzytkowników
+- mo¿liwoœæ ustawienia ikon i stylu (kolor, pogrubienie, itd.)
+- wyœwietlana jest ramka z przesy³anych i odbieranych danych
+- mo¿eliwoœc rysowania (g³ówna czeœæ programu), wyglada to jak paint, 
+tylko w sieci (w komunikatorze) - rysowanie linii, kwadratów, wstawianie tekstu
+- do programu zosta³a zrobiona dokumentacja
+Jeœli by³byœ zainteresowany móg³bym ci po pod³udniu podes³aæ dokumentacjê.
+A i jeszcze jedno program by³ pisany na zaliczenie na Uniwersytecie Œl¹skim, 
+a ogólnie ja jestem z Katowic.
+Pozdrawiam
+
+
+Zamówienie detaliczne (Komputronik) nr 02935/2006, z dnia: 2006-01-17 10:19:03
+-----------------------------------------------------------------
+
+|Lp.|      | Iloœæ | Cena netto | Cena Brutto | Wartoœæ Netto | Wartoœæ Brutto |
+--------------------------------------------------------------------------------
+|  1|                                             17" e-yama 17LP2 (by iiyama) |
+|   |      |     1 |  794.27 |   969.00 |     794.27 |      969.00 |
+--------------------------------------------------------------------------------
+|  2| us³uga transportowa [odbiór w³asny - salon w Katowicach, CH Silesia City Center, ul. Chorzowska 107, Pn-Nd 10:00-21:00] |
+|   |      |     1 |    0.00 |     0.00 |       0.00 |        0.00 |
+--------------------------------------------------------------------------------
+                                |       Razem |     794.26 |      969.00 |
+                                ------------------------------------------------ww
+
+
+Nazwa dokumentu sdgsdfgSdfgsdfsdfgsdfsdfgsdf
+
+
+1324wertr
+
+
+z listy polecenia nalezy wybraæ Normal.Login.EditPasteSpecialAsNormalText i przeci¹gn¹æ ten element na wybrany pasek narzêdziowy (zaznaczyæ i trzymaj¹æ lewy klwisz wciœniêty przenieœæ na wybrane miejsce). Proponujê aby umieœciæ makro obok ikonki zwyk³ego wklejania
+
+
+przechodzimy na ikonkê normalnewgo wklejania, klikamy prawym klawiszem, i wybieramy 'kopiuj obraz przycisku'
+
+przechodzimy z powrotem na makro, które zosta³o umieszczone na pasku zadañ, klikamy prawym i wybieramy 'wklej obraz przycisku' (wygl¹d powinien byæ nastêpuj¹cy)
+
+ponownie klikamy prawym w makro i wybieramy 'edytuj obraz przycisku', aby ikonka makra ró¿ni³a sie od ikonki normalnego wklejania, porponuje kopolorowaæ k³o na ¿ó³to
+
+jeszcze raz klikamy prawym klawiszem w makro i wybieramy opcjê 'tylko tekst (w menu)'
+
+od tej pory makro z uruchamiane z menu bêdzie dostepne we wszystkich dokumentach
+
+
+ET_WarunkiZamowienia
+
+ET_TermPlatnosci
+
+ET_TypUslugi ET Robota - Typ us³ugi
+
+
+
+
+
+
+
+DS 2005.09.16
+lista pól katalogowych, które s¹ domyœlnie wprowadzane
+
+PG_ET_Karta_roboty_Ded_ETZRE
+	sekcja opis roboty
+podstawa uruchomienia - ET_PodUruchom
+typ us³ugi - ET_TypUslugi
+kwota otrzymana - waluta - ET_KwotaOtrzymana_Waluta
+sposób naliczania - ET_SpNalicz
+kwota przyjeta - waluta - ET_KwotaPrzyjeta_Waluta
+termin zap³aty (warunki p³atnoœci) - ET_TermZapl
+	sekcja co, gdzie, czym
+rodzaj1 - ET_Rodzaj1
+rodzaj2 - ET_Rodzaj2
+œrodki do realizacji - ET_SrodDoReal - jedynie ten wpis nie ma automatycznego wprowadzania wartoœci domyœlnej z katalogu
+sekcja jak
+kwota zaliczki - waluta - ET_WalutaZaliczki
+forma zaliczki - ET_FormaZaliczki
+kwota zlecenia koñcowa - waluta - ET_WalutaZleceniaEnd
+termin zap³aty (warunki p³atnoœci) - ET_TermZaplEnd
+
+PG_ET_Meldunek_Ded_ETZRE
+typ us³ugi - ET_TypUslugi
+kwota meldunku - waluta - ET_WalutaMeldunku
+Termin zap³aty
+(warunki p³atnoœci)
+Termin zap³aty
+(warunki p³atnoœci)
+termin zap³aty (warunki p³atnoœci) - ET_TermZapl
+PKWiU - ET_PKWIU
+
+PG_ET_Potwierdzenie_Ded_ETZRE - brak pól wype³nianych z katalogów
+
+PG_ET_Rozrachunek_Ded_ETZRE - 
+kwota faktury netto - waluta ET_WalutaFaktury
+rachunek za co -ET_ZaCo
+sposób zap³aty - ET_SposobZaplaty
+termin zap³aty - ET_TermZaplFak
+
+PG_ET_Wniosek_Zezwolenie_Ded_ETZRE
+kwota oplaty - waluta - ET_WalutaOplaty
+
+
+
+
+Termin zap³aty
+(warunki p³atnoœci)
+Termin zap³aty
+(warunki p³atnoœci)
+Termin zap³aty
+(warunki p³atnoœci)
+ET_TermZapl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.rozbark.net.pl/~rataj/matlab.exe 1
+
+
+sdfsfdg sdfg sdfg
+
+Dostep do widoku kosz , na którym znajduj¹ siê dokumenty usuniete do kosza [rysunek] uzalezniony jest od wype³nienie listy Dostep do kosza.
+Jeœli lista ta jest pusta wszyscy u¿ytkownicy systemu maj¹ dostep do folderu koszt
+Jeœli znajduje sie na liœcie przynajmniej jedna pozycja dostep do kosza maj¹ wszystkie wymienione osoby naliœcie i dodatkowo administratorzy.
+
+dokument,komentarz, opinie, polecenie, przywróciæ mo¿e
+- osoba która dokona³a usuniêcia lub administrator zdefiniowany w profilu dokumentu
+
+kontrahenta
+- osoba która dokona³a usuniêcia lub administrator zdefiniowany w profilu kontrahenta
+
+- pozosta³e dokumenty przywróciæ mo¿e jedynie Administrator.
+
+
+
+
+
+
+
+LF1 := @GetDocField( UnidProfilDoc; "ListaFunkcyjna1" );
+
+UNL := @UserNamesList;
+JestNaLiscie :=False
+i:=1;
+
+@While(
+(!JestNaLiscie) & (i<= @Elements(LF1));
+@if( @isMember(LF1[i];UNL);JestNaLiscie:=True;i=i+1)
+)
+
+
+(!@IsDocBeingEdited) | (!JestNaLiscie))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baza rekordów DEV - 1. Emisja wg autor em
+<NDL>
+<REPLICA C1256E5F:00416D06>
+<VIEW OFA56316EC:B94D7135-ONC1256E3D:004EABE5>
+<NOTE OFACD5CA00:C382EBA5-ONC1256EF4:003976E9>
+<HINT>CN=ALFA/O=LOGIN/C=PL</HINT>
+<REM>Baza rekordów DEV</REM>
+</NDL>
+
+
+
+
+Kingston SD 128MB Secure DigitalCard - 1 szt.
+
+DDRAM 256MB 3200 PC400 - 1 szt.
+
+
+
+Neostrada rejestracja U¿ytkownika.
+Rejestracja w Neostradzie sprowadza siê do
+po³¹czenia za pomoc¹ przegl¹darki ze stron¹ 
+www.rejestracja.neostrada.pl - oczywiœcie po
+uprzednim przygotowaniu instalacji telefonicznej, instalacji karty sieciowej lub sterowników modemu USB, warto równie¿ poprawnie pod³¹czyæ modem i filtry / dla U¿ytkowników anglojêzycznych - splittery. 
+Ci z Was, którzy nie korzystali z pe³nego programu instalacyjnego dostarczanego przez TPSA w zestawie, aby uzyskaæ po³¹czenie ze stron¹ korzystaj¹ z utworzonego rêcznie po³¹czenia z ustawieniami:
+login: rejestracja@neostrada.pl
+has³o : rejestracja
+Ukazanie siê w oknie przegl¹darki okna zamieszconego poni¿ej oznacza pe³en sukces instalacyjny.
+
+
+
+
+	Dim ws As New NotesUIWorkspace	
+	Dim view As NotesUIView
+	Set view = ws.CurrentView
+	Set col = view.Documents
+
+
+
+
+
+
+
+TDI (Twój Dostêp do Internetu)
+
+
+111 1111 1111 1111 - 1111 1111 1111 1111
+
+11110000000000000000
+
+
+
+
+
+
+
+
+
+
+
+	@IsMember("UmowaPKEUstKontr";$$UsedInViews);
+	@If(NrDokumentu="";"<Brak numeru>";NrDokumentu);
+
+
+	@IsMember("UmowaPKEUstKontr";$$UsedInViews);
+	"Ust. kontr.: "+tmp;
+
+	@IsMember("UmowaPKEUstKontr";$$UsedInViews);
+	"Ust. kontr.: "+tmp;
+
+ 1-stronna
+
+
+CN=Ktos Nieznany/O=LOGIN/C=PL
+
+Jak odró¿niæ gatunki niedzwiedzia (metoda praktyczna). 
+Najpierw trzeba znalezc niedzwiedzia, podejsc do niego po 
+cichutku i kopnac go w jaja, oczywiscie z calej sily. 
+Nastepnie spierdzielamy. 
+I teraz: 
+- jesli spierdalamy a niedzwiedz nie goni nas to 
+> jest to mis pluszowy 
+- jesli spierdzielamy na drzewo a niedzwiedz wchodzi za nami 
+> to jest to niedzwiedz brunatny. 
+- jesli spierdzielamy na drzewo a niedzwiedz zaczyna nim 
+trzasc tak, ze spadamy w jego lapska, to 
+> jest to niedzwiedz Grizzly 
+- jesli spierdzielamy na drzewo a niedzwiedz wspina sie za 
+nami i wpieprza liscie 
+> to jest to mis koala 
+- jesli spierdzielamy i nigdzie nie ma drzew to 
+> jest to niedzwiedz polarny... 
+A jak spierdzielamy, a niedzwiedz zaczyna plakac, to 
+> jest to mis Kolargol.
+
+
+1X/2X: 
+J1-3: Open 
+J4: A-B 
+
+4X: 
+J1-3: Closed 
+J4: B-C 
+
+
+
+
+
+
+
+
+
+
+Urlop warunkowy - niestety wykorzysta³em juz swój ca³y urlop. Proszê o dzieñ urlopu z przysz³orocznej puli.
+
+
+1 cecha, 2 nazwa
+3 okreœlenie
+4 oznaczenie
+5 znakowanie
+
+
+
+profdoc
+
+
+czesc, potrzebuje jakiejœ taniej karty graficznej, takiej co by j¹ mo¿na wcisn¹æ po portu AGPx8, chce tylko ¿eby wyraŸny obraz dawa³a. masz mo¿e coœ takiego?
+
+
+Detroit Pistons Indiana Pacers
+
+
+asldkfn0^ bXYd01 as;kljdfleab>0<sgeargj rgbekrjd0
+
+á
+
+
+3d home design deluxe v6.0 (c) broderbund, Numer : u1524
+mój dom 3d deluxe pl. (c) play, Numer : u1396
+
+
+
+
+Wycofanie z Iraku kontyngentu Hiszpanii jest suwerenn¹ decyzj¹ tego pañstwa i musi ona byæ respektowana - oœwiadczy³ dowódca wielonarodowej dywizji w œrodkowo-po³udniowej strefie Iraku, genera³ Mieczys³aw Bieniek.
+
+Dowódca doda³, ¿e praca Hiszpanów w Iraku jest przez dywizjê oceniana bardzo wysoko i stanowi¹ oni istotn¹ czêœæ dywizji, ale - jak zaznaczy³ - "deklaracje polityczne nie wp³ywaj¹ na ci¹g³oœæ wykonywania zadañ w rejonie odpowiedzialnoœci".
+
+Jak poinformowano w Kairze, powo³uj¹c siê na wiadomoœæ przekazan¹ przez nowego ministra spraw zagranicznych Hiszpanii Miguela Angela Moratinosa, Hiszpanie wycofaj¹ swój kontyngent wojskowy z Iraku w ci¹gu najbli¿szych 15 dni.
+
+Kilka godzin wczeœniej nowy premier Hiszpanii Jose Luis Rodriguez Zapatero og³osi³, ¿e kontyngent hiszpañski zostanie wycofany z Iraku "najszybciej, jak to bêdzie mo¿liwe".
+
+Zapatero, który wygra³ wybory 14 marca, trzy dni po krwawej serii zamachów w Madrycie, podkreœli³, ¿e wycofuje ¿o³nierzy hiszpañskich, poniewa¿ ich misja w Iraku jest bardzo niepopularna w spo³eczeñstwie hiszpañskim. W zamachach zginê³o 191 osób.
+
+"Decyzja o wycofaniu wojsk hiszpañskich z Iraku jest decyzj¹ suwerennego pañstwa i jego gremium politycznego, i musi byæ respektowana. Natomiast wycofanie kontyngentu hiszpañskiego jest operacj¹ militarn¹, wymagaj¹c¹ czasu i odpowiedniego planowania, co aktualnie siê odbywa" - g³osi komunikat Bieñka, rozdany rano dziennikarzom w Obozie Babilon.
+
+Bieniek przypomina, ¿e w ostatnim czasie Hiszpanie odpierali ataki bojówkarzy Muktady al-Sadra, broni¹c wa¿nych obiektów u¿ytecznoœci publicznej i administracji lokalnej, w³¹czyli siê te¿ w zapewnianie bezpieczeñstwa podczas jednego z najwiêkszych œwi¹t szyickich - Arbain.
+
+Hiszpañski kontyngent w Iraku liczy oko³o 1300 ¿o³nierzy. Hiszpanie dowodz¹ brygad¹ Plus Ultra, któr¹ wspó³tworz¹ razem z Salwadorem, Hondurasem i Dominikan¹. Brygada odpowiada za dwie z piêciu prowincji strefy œrodkowo-po³udniowej - Kadisijê i Nad¿af.
+
+Wed³ug nieoficjalnych informacji, wycofanie siê Hiszpanów najprawdopodobniej spowoduje zakoñczenie misji tak¿e przez trzy inne kraje tworz¹ce brygadê - s¹ one uzale¿nione od hiszpañskiej logistyki i ³¹cznoœci. Oznacza³oby to, ¿e licz¹ca 10 tys. ludzi dywizja stopnieje o 1400 ¿o³nierzy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2345456b34 yert ery 
+gazeta wyborcza, wczoraj.
+Dzieñ dobry. Jestem abonentem sieci Eurofuks, Katowice-Giszowiec, ul. Mys³owicka 39c/34. Od kilku dni nie jestem w stanie odebraæ poczty z serwera www.poczta.fm i www.poczta.interia.pl. W konfiguracji kont nic sie nie zmieni³o, poczty nie potrafie odbraæ zarówno przez czytnik (outlook express) jak i przez stronê (tzn. strona www.poczta.interia.pl w ogóle siê nie chce za³adowaæ, pozosta³e strony dzia³aj¹ bez problemów). Proszê o szybkie rozwi¹zanie problemu. Pozdrawiam.
+
+Ludzie dziel¹ siê na tych co robi¹ backup danych i na tych którzy go bêd¹ robiæ
+
+osuh(at)poczta.onet.pl
+jaworzno(at)pro.ops.pl
+
+
+Sub Click(Source As Button)
+	
+	Dim ws 	As New NotesUIWorkspace
+	Dim uidoc As NotesUIDocument
+	Dim doc 	As NotesDocument
+	
+	Dim se As New NotesSession
+	Dim db As NotesDatabase
+	Set db = se.CurrentDatabase
+	
+	Dim view As notesView
+	Dim col As NotesDocumentCollection
+	
+	Set uidoc = ws.CurrentDocument
+	Set doc	= uidoc.Document
+	
+	Set view = db.GetView( "($$PodPlanyZamow)" )
+	Set col = view.GetAllDocumentsByKey(doc.UniversalID, True)
+	
+	If col.count=0 Then
+		Msgbox "Brak dokumentów pozycji"	
+		Exit Sub
+	End If
+	
+	Dim cells
+	Redim cells(0 To 2*col.count+1, 0 To LICZBA_KOL-1)
+	Redim cells_sort(1 To col.count, LICZBA_KOL_SORT-1) 'nie sortujemy nag³ówka
+	Dim cells_sort2
+	
+	Dim cells_size(0 To LICZBA_KOL-1)
+	Dim merge_vert(0 To LICZBA_KOL-1)
+	
+	
+	cells(0,0)="LP"
+	cells(0,1)="Przedmiot zamówienia"
+	cells(0,2)="Wartoœæ PLN/Euro"
+	cells(0,3)="Rodzaj zamówienia"
+	cells(0,4)="Termin rozpoczêcia postêpowania o udzielenie zamówienia"
+	cells(0,5)="Po¿¹dany termin udzielenia zamówienia"
+	cells(0,6)="Odpowiedzialny Oœrodek Zamówieñ"
+	
+	cells(1,0)=""
+	cells(1,1)="Klasyfikacja PKWiU"
+	cells(1,2)="Udzia³ œrodków publicznych PLN/Euro"
+	cells(1,3)=""
+	cells(1,4)=""
+	cells(1,5)=""
+	cells(1,6)=""
+	
+'===
+	Dim i As Integer
+	Dim tdoc As notesDocument
+	For i = 1 To col.count
+		Set tdoc = col.GetNthDocument(i)
+		cells_sort(i,0)=Cstr(tdoc.NrPozycja(0))
+		cells_sort(i,1)=tdoc.PPZ_PrzedmiotZamowienia(0)
+		cells_sort(i,2)=Cstr(tdoc.PPZ_Wartosc_PLN(0))+"/"+Cstr(tdoc.PPZ_Wartosc_EURO(0))
+		cells_sort(i,3)=tdoc.PPZ_RodzajZamowienia(0)
+		cells_sort(i,4)=Cstr(tdoc.PPZ_TerminRozp_Month(0))+"/"+Cstr(tdoc.PPZ_TerminRozp_Year(0))
+		cells_sort(i,5)=Cstr(tdoc.PPZ_TerminReal_Month(0))+"/"+Cstr(tdoc.PPZ_TerminReal_Year(0))
+		cells_sort(i,6)=tdoc.PPZ_OZ_Nazwa(0)+" ("+tdoc.PPZ_OZ_Symbol(0)+")"		
+		cells_sort(i,7)=tdoc.PPZ_KlasyfikacjaPKWIU(0)
+		cells_sort(i,8)=Cstr(tdoc.PPZ_UdzialPub_PLN(0))+"/"+Cstr(tdoc.PPZ_UdzialPub_EURO(0))	
+	Next
+	
+	cells_sort2 = Array2DSort(cells_sort)
+	'zmapowanie posortowanej tablicy do tablicy komórek
+	For i = 1 To col.count
+		cells(2*i,0) = cells_sort2(i,0)
+		cells(2*i,1) = cells_sort2(i,1)
+		cells(2*i,2) = cells_sort2(i,2)
+		cells(2*i,3) = cells_sort2(i,3)
+		cells(2*i,4) = cells_sort2(i,4)
+		cells(2*i,5) = cells_sort2(i,5)
+		cells(2*i,6) = cells_sort2(i,6)
+		
+		cells(2*i+1,0) = ""
+		cells(2*i+1,1) = cells_sort2(i,7)
+		cells(2*i+1,2) = cells_sort2(i,8)
+		cells(2*i+1,3) = ""
+		cells(2*i+1,4) = ""
+		cells(2*i+1,5) = ""
+		cells(2*i+1,6) = ""	
+	Next
+	
+	cells_size(0)=20
+	cells_size(1)=70
+	cells_size(2)=70
+	cells_size(3)=70
+	cells_size(4)=70
+	cells_size(5)=70
+	cells_size(6)=140
+	
+	merge_vert(0)=2
+	merge_vert(1)=1
+	merge_vert(2)=1
+	merge_vert(3)=2
+	merge_vert(4)=2
+	merge_vert(5)=2
+	merge_vert(6)=2
+	
+	Call AddTableToWord(doc, cells, cells_size, merge_vert)
+	
+ExitFunc:
+	Exit Sub
+	
+ErrorHandler:	
+	Messagebox "B£¥D " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc
+	
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Click(Source As Button)
+	
+	Dim ws 	As New NotesUIWorkspace
+	Dim uidoc As NotesUIDocument
+	Dim doc 	As NotesDocument
+	
+	Dim se As New NotesSession
+	Dim db As NotesDatabase
+	Set db = se.CurrentDatabase
+	
+	Dim view As notesView
+	Dim col As NotesDocumentCollection
+	
+	Set uidoc = ws.CurrentDocument
+	Set doc	= uidoc.Document
+	
+	Set view = db.GetView( "($$PodPlanyZamow)" )
+	Set col = view.GetAllDocumentsByKey(doc.UniversalID, True)
+	
+	If col.count=0 Then
+		Msgbox "Brak dokumentów pozycji"	
+		Exit Sub
+	End If
+	
+	Dim cells
+	Redim cells(0 To 2*col.count+1, 0 To LICZBA_KOL-1)
+	Redim cells_sort(1 To col.count, LICZBA_KOL_SORT-1) 'nie sortujemy nag³ówka
+	Redim cells_sort2
+	
+	Dim cells_size(0 To LICZBA_KOL-1)
+	Dim merge_vert(0 To LICZBA_KOL-1)
+	
+	
+	cells(0,0)="LP"
+	cells(0,1)="Przedmiot zamówienia"
+	cells(0,2)="Wartoœæ PLN/Euro"
+	cells(0,3)="Rodzaj zamówienia"
+	cells(0,4)="Termin rozpoczêcia postêpowania o udzielenie zamówienia"
+	cells(0,5)="Po¿¹dany termin udzielenia zamówienia"
+	cells(0,6)="Odpowiedzialny Oœrodek Zamówieñ"
+	
+	cells(1,0)=""
+	cells(1,1)="Klasyfikacja PKWiU"
+	cells(1,2)="Udzia³ œrodków publicznych PLN/Euro"
+	cells(1,3)=""
+	cells(1,4)=""
+	cells(1,5)=""
+	cells(1,6)=""
+	
+	Dim i As Integer
+	Dim tdoc As notesDocument
+	For i = 1 To col.xxcount
+		Set tdoc = col.GetNthDocument(i)
+		cells_sort(i,0)=Cstr(tdoc.NrPozycja(0))
+		cells_sort(i,1)=tdoc.PPZ_PrzedmiotZamowienia(0)
+		cells_sort(i,2)=Cstr(tdoc.PPZ_Wartosc_PLN(0))+"/"+Cstr(tdoc.PPZ_Wartosc_EURO(0))
+		cells_sort(i,3)=tdoc.PPZ_RodzajZamowienia(0)
+		cells_sort(i,4)=Cstr(tdoc.PPZ_TerminRozp_Month(0))+"/"+Cstr(tdoc.PPZ_TerminRozp_Year(0))
+		cells_sort(i,5)=Cstr(tdoc.PPZ_TerminReal_Month(0))+"/"+Cstr(tdoc.PPZ_TerminReal_Year(0))
+		cells_sort(i,6)=tdoc.PPZ_OZ_Nazwa(0)+" ("+tdoc.PPZ_OZ_Symbol(0)+")"		
+		cells_sort(i,7)=tdoc.PPZ_KlasyfikacjaPKWIU(0)
+		cells_sort(i,8)=Cstr(tdoc.PPZ_UdzialPub_PLN(0))+"/"+Cstr(tdoc.PPZ_UdzialPub_EURO(0))	
+	Next
+	
+	cells_sort2 = Array2DSort(cells_sort)
+	'zmapowanie posortowanej tablicy do tablicy komórek
+	For i = 2 To col.count+1
+		cells(2*i,0) = cells_sort(i,0)
+		cells(2*i,1) = cells_sort(i,1)
+		cells(2*i,2) = cells_sort(i,2)
+		cells(2*i,3) = cells_sort(i,3)
+		cells(2*i,4) = cells_sort(i,4)
+		cells(2*i,5) = cells_sort(i,5)
+		cells(2*i,6) = cells_sort(i,6)
+		
+		cells(2*i+1,0) = ""
+		cells(2*i+1,1) = cells_sort(i,7)
+		cells(2*i+1,2) = cells_sort(i,8)
+		cells(2*i+1,3) = ""
+		cells(2*i+1,4) = ""
+		cells(2*i+1,5) = ""
+		cells(2*i+1,6) = ""	
+	Next
+	
+	cells_size(0)=20
+	cells_size(1)=70
+	cells_size(2)=70
+	cells_size(3)=70
+	cells_size(4)=70
+	cells_size(5)=70
+	cells_size(6)=140
+	
+	merge_vert(0)=2
+	merge_vert(1)=1
+	merge_vert(2)=1
+	merge_vert(3)=2
+	merge_vert(4)=2
+	merge_vert(5)=2
+	merge_vert(6)=2
+	
+	Call AddTableToWord(doc, cells, cells_size, merge_vert)
+	
+ExitFunc:
+	Exit Sub
+	
+ErrorHandler:	
+	Messagebox "B£¥D " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc
+	
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Click(Source As Button)
+	
+	Dim ws 	As New NotesUIWorkspace
+	Dim uidoc As NotesUIDocument
+	Dim doc 	As NotesDocument
+	
+	Dim se As New NotesSession
+	Dim db As NotesDatabase
+	Set db = se.CurrentDatabase
+	
+	Dim view As notesView
+	Dim col As NotesDocumentCollection
+	
+	Set uidoc = ws.CurrentDocument
+	Set doc	= uidoc.Document
+	
+	Set view = db.GetView( "($$PodPlanyZamow)" )
+	Set col = view.GetAllDocumentsByKey(doc.UniversalID, True)
+	
+	If col.count=0 Then
+		Msgbox "Brak dokumentów pozycji"	
+		Exit Sub
+	End If
+	
+	Dim cells
+	Redim cells(0 To 2*col.count+1, 0 To LICZBA_KOL-1)
+	Redim cells_sort(0 To col.count-1, LICZBA_KOL_SORT-1) 'nie sortujemy nag³ówka
+	
+	Dim cells_size(0 To LICZBA_KOL-1)
+	Dim merge_vert(0 To LICZBA_KOL-1)
+	
+	
+	cells(0,0)="LP"
+	cells(0,1)="Przedmiot zamówienia"
+	cells(0,2)="Wartoœæ PLN/Euro"
+	cells(0,3)="Rodzaj zamówienia"
+	cells(0,4)="Termin rozpoczêcia postêpowania o udzielenie zamówienia"
+	cells(0,5)="Po¿¹dany termin udzielenia zamówienia"
+	cells(0,6)="Odpowiedzialny Oœrodek Zamówieñ"
+	
+	cells(1,0)=""
+	cells(1,1)="Klasyfikacja PKWiU"
+	cells(1,2)="Udzia³ œrodków publicznych PLN/Euro"
+	cells(1,3)=""
+	cells(1,4)=""
+	cells(1,5)=""
+	cells(1,6)=""
+	
+	Dim i As Integer
+	Dim tdoc As notesDocument
+	For i = 1 To col.count
+		Set tdoc = col.GetNthDocument(i)
+		
+		cells(2*i,0)=Cstr(tdoc.NrPozycja(0))
+		cells(2*i,1)=tdoc.PPZ_PrzedmiotZamowienia(0)
+		cells(2*i,2)=Cstr(tdoc.PPZ_Wartosc_PLN(0))+"/"+Cstr(tdoc.PPZ_Wartosc_EURO(0))
+		cells(2*i,3)=tdoc.PPZ_RodzajZamowienia(0)
+		cells(2*i,4)=Cstr(tdoc.PPZ_TerminRozp_Month(0))+"/"+Cstr(tdoc.PPZ_TerminRozp_Year(0))
+		cells(2*i,5)=Cstr(tdoc.PPZ_TerminReal_Month(0))+"/"+Cstr(tdoc.PPZ_TerminReal_Year(0))
+		cells(2*i,6)=tdoc.PPZ_OZ_Nazwa(0)+" ("+tdoc.PPZ_OZ_Symbol(0)+")"
+		
+		cells(2*i+1,0)=""
+		cells(2*i+1,1)=tdoc.PPZ_KlasyfikacjaPKWIU(0)
+		cells(2*i+1,2)=Cstr(tdoc.PPZ_UdzialPub_PLN(0))+"/"+Cstr(tdoc.PPZ_UdzialPub_EURO(0))
+		cells(2*i+1,3)=""
+		cells(2*i+1,4)=""
+		cells(2*i+1,5)=""
+		cells(2*i+1,6)=""
+		
+	Next
+	
+	cells_size(0)=20
+	cells_size(1)=70
+	cells_size(2)=70
+	cells_size(3)=70
+	cells_size(4)=70
+	cells_size(5)=70
+	cells_size(6)=140
+	
+	merge_vert(0)=2
+	merge_vert(1)=1
+	merge_vert(2)=1
+	merge_vert(3)=2
+	merge_vert(4)=2
+	merge_vert(5)=2
+	merge_vert(6)=2
+	
+	Call AddTableToWord(doc, cells, cells_size, merge_vert)
+	
+ExitFunc:
+	Exit Sub
+	
+ErrorHandler:	
+	Messagebox "B£¥D " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc
+	
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub Click(Source As Button)
+	
+	Dim ws 	As New NotesUIWorkspace
+	Dim uidoc As NotesUIDocument
+	Dim doc 	As NotesDocument
+	
+	Dim se As New NotesSession
+	Dim db As NotesDatabase
+	Set db = se.CurrentDatabase
+	
+	Dim view As notesView
+	Dim col As NotesDocumentCollection
+	
+	Set uidoc = ws.CurrentDocument
+	Set doc	= uidoc.Document
+	
+	Dim row(0 To LICZBA_KOL-1) As String
+	Dim cells_size(0 To LICZBA_KOL-1)
+	Dim merge_vert(0 To LICZBA_KOL-1)
+	Dim cells
+	
+	Redim cells(0 To 1, 0 To LICZBA_KOL-1)
+	
+	row(0)="LP"
+	row(1)="Przedmiot zamówienia"
+	row(2)="Wartoœæ PLN/Euro"
+	row(3)="Rodzaj zamówienia"
+	row(4)="Termin rozpoczêcia postêpowania o udzielenie zamówienia"
+	row(5)="Po¿¹dany termin udzielenia zamówienia"
+	row(6)="Odpowiedzialny Oœrodek Zamówieñ"
+	cells(0) = row
+	
+	row(0)=""
+	row(1)="Klasyfikacja PKWiU"
+	row(2)="Udzia³ œrodków publicznych PLN/Euro"
+	row(3)=""
+	row(4)=""
+	row(5)=""
+	row(6)=""
+	cells(1) = row
+	
+	
+	Set view = db.GetView( "($$PodPlanyZamow)" )
+	Set col = view.GetAllDocumentsByKey(doc.UniversalID, True)
+	
+	If col.count=0 Then
+		Msgbox "Brak dokumentów pozycji"	
+		Exit Sub
+	End If
+	
+	Redim Preserve cells(0 To 2*col.count+1, 0 To LICZBA_KOL-1)
+	
+	Dim i As Integer
+	Dim tdoc As notesDocument
+	For i = 1 To col.count
+		Set tdoc = col.GetNthDocument(i)
+		
+		row(0)=Cstr(tdoc.NrPozycja(0))
+		row(1)=tdoc.PPZ_PrzedmiotZamowienia(0)
+		row(2)=Cstr(tdoc.PPZ_Wartosc_PLN(0))+"/"+Cstr(tdoc.PPZ_Wartosc_EURO(0))
+		row(3)=tdoc.PPZ_RodzajZamowienia(0)
+		row(4)=Cstr(tdoc.PPZ_TerminRozp_Month(0))+"/"+Cstr(tdoc.PPZ_TerminRozp_Year(0))
+		row(5)=Cstr(tdoc.PPZ_TerminReal_Month(0))+"/"+Cstr(tdoc.PPZ_TerminReal_Year(0))
+		row(6)=tdoc.PPZ_OZ_Nazwa(0)+" ("+tdoc.PPZ_OZ_Symbol(0)+")"
+		
+		cells(2*i) = row	
+		
+		row(0)=""
+		row(1)=tdoc.PPZ_KlasyfikacjaPKWIU(0)
+		row(2)=Cstr(tdoc.PPZ_UdzialPub_PLN(0))+"/"+Cstr(tdoc.PPZ_UdzialPub_EURO(0))
+		row(3)=""
+		row(4)=""
+		row(5)=""
+		row(6)=""
+		
+		cells(2*i+1) = row	
+	Next
+	
+	cells_size(0)=20
+	cells_size(1)=70
+	cells_size(2)=70
+	cells_size(3)=70
+	cells_size(4)=70
+	cells_size(5)=70
+	cells_size(6)=140
+	
+	merge_vert(0)=2
+	merge_vert(1)=1
+	merge_vert(2)=1
+	merge_vert(3)=2
+	merge_vert(4)=2
+	merge_vert(5)=2
+	merge_vert(6)=2
+	
+	Call Array2DSort(cells)
+	
+	Call AddTableToWord(doc, cells, cells_size, merge_vert)
+	
+ExitFunc:
+	Exit Sub
+	
+ErrorHandler:	
+	Messagebox "B£¥D " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc
+	
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Big DiSv3
+ul. Klonowa 225; 43-222 Bêdzin-Grodziec (lubuskie)
+NIP: 1234567890
+
+
+
+
+
+
+
+
+
+Wniosek w sprawie og³oszenia - Za³¹cznik 54 (druk urzêdowy ZP 150)
+
+
+
+
+@GetProfileField("($$RegisterCODE)";"FDodKategorie" )!="Tak"
+
+http://www.handango.com/PlatformProductDetail.jsp?productType=2&optionId=1_1_2&jid=C5BE1A5DC5CXFB521BF48D4EFDDBX679&platformId=1&siteId=1&productId=12440&sectionId=0&posit=25&catalog=1&txtSearch=freeware
+
+
+
+Function DocPrepSubForm(doc As NotesDocument, WFormWydruku As String,_
+WPodfWydruku As String, WPodfNaglowka As String,_
+WPodfZakonczenia As String, print_doc As NotesDocument, TypEmisji As Integer) As Integer
+' TypEmisji : 1- fax, mail; 2- drukarka i inne --- old version
+' TypEmisji : 1- mail; 2- drukarka, fax i inne --- new version
+	
+'	Dim ws		As New NotesUIWorkspace
+'	Dim se		As New NotesSession
+'	Dim db		As NotesDatabase
+'	Set db		= se.CurrentDatabase
+	
+	On Error Goto ErrorHandler
+	
+	Dim result As Integer
+	
+	Dim prep_doc As NotesDocument
+	result = DocPrepTempSubForm(doc, WFormWydruku, WPodfWydruku, WPodfNaglowka, WPodfZakonczenia, prep_doc)
+	If result <> OKFuncExec Then		
+		DocPrepSubForm = result
+		Goto ExitFunc
+	End If
+	
+	result = DocPrepFacsimile(prep_doc)
+	If result <> OKFuncExec Then		
+		DocPrepSubForm = result
+		Goto ExitFunc
+	End If
+	
+'OLD
+'	tu chyba trzeba dodac ktory formularz renderingu --- zamiast tej jedynki TypEmisji
+'	result = DocPrepRenderForm(prep_doc, TypEmisji, print_doc)
+	
+	result = DocPrepRenderForm(prep_doc, WFormWydruku, print_doc)
+	If result <> OKFuncExec Then
+		DocPrepSubForm = result
+		Goto ExitFunc
+	End If
+	
+	DocPrepSubForm = OKFuncExec
+ExitFunc:
+	Exit Function
+ErrorHandler:
+	DocPrepSubForm = ErrFuncExec
+	Messagebox "<Api2_SendRoutines.DocPrepSubForm>: " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc		
+End Function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nazwa pliku Rozmiar Format Pobrañ 
+eBooks.PL.Scan-Dal.001-100.(Packed.By.Cast).(osloskop.net).rar 17.81 MB  5164 
+eBooks.PL.Scan-Dal.101-200.(Packed.By.Cast).(osloskop.net).rar 26.35 MB  4274 
+eBooks.PL.Scan-Dal.201-300.(Packed.By.Cast).(osloskop.net).rar 33.85 MB  2185 
+eBooks.PL.Scan-Dal.301-400.(Packed.By.Cast).(osloskop.net).rar 33.09 MB  1366 
+eBooks.PL.Scan-Dal.401-500.(Packed.By.Cast).(osloskop.net).rar 34.37 MB  4157 
+eBooks.PL.Scan-Dal.501-699.(Packed.By.Cast).(osloskop.net).rar 66.88 MB  4177 
+eBooks.PL.Scan-Dal.701-800.(Packed.By.Cast).(osloskop.net).rar 34.6 MB  4126 
+eBooks.PL.Scan-Dal.801-900.(Packed.By.Cast).(osloskop.net).rar 27.42 MB  4178 
+eBooks.PL.Scan-Dal.901-1000.(Packed.By.Cast).(osloskop.net).rar 40.81 MB  4260 
+eBooks.PL.Scan-Dal.1001-1100.(Packed.By.Cast).(osloskop.net).rar 24.18 MB  3860 
+eBooks.PL.Scan-Dal.1102-1155.(Packed.By.Cast).(osloskop.net).rar 12.76 MB  2728 
+
+
+
+
+
+
+
+
+Function DodajZdarzeniaPowRes(print_doc As notesDocument, doc As NotesDocument,_
+doctype As Integer,_
+ev As Integer,_
+action As Integer,_
+uwagi As String)  As Integer
+	
+	If print_doc.HasItem("EmisjaPowRes") Then
+		Dim i As Integer
+		Dim t
+		t = print_doc.EmisjaPowRes
+
+		For i =Lbound(t) To Ubound(t)
+			If Not Trim(t(i))="" Then
+				Call DodajZdarzenieUwagi(doc, 0, 600, 1, t(i))			
+			End If
+		Next
+	End If
+	
+End Function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@SetProfileField("($TemporaryProfileForm)"; "WybraneInfo";WybraneInfo;@Name([Canonicalize];@UserName) );
+@SetProfileField("($TemporaryProfileForm)"; "WybraneUnid";WybraneUnid;@Name([Canonicalize];@UserName) );
+
+
+
+xxDayEndDate + " " + xxEndDate
+
+
+{(($$UsedInViews="} & W31 & {") | ($$UsedInViews="}& W32 & {"))}
+
+
+
+
+
+
+
+
+Trener kadry siatkarek Andrzej Niemczyk w wywiadzie dla „¯ycia Warszawy” opowiedzia³ o roli, jak¹ w jego ¿yciu odgrywaj¹ kobiety.
+
+ 
+„Pozostañmy przy trzech córkach. O czwartej wszyscy wiedz¹, 
+ale proszê, ¿eby tego nie rozdmuchiwaæ, bo niektórym mog³oby siê zrobiæ przykro. M³odsze Saskia i Natasha graj¹ ju¿ w reprezentacji Bawarii. Maj¹ 16 i 13 lat. Ma³gorzata by³a w z³otej dru¿ynie z Turcji. Goœkê mam z Polk¹, Saskiê i Nataszê z drug¹ ¿on¹, Niemk¹. Jeszcze by³a trzecia ¿ona, Austriaczka, ale z ni¹ nie mia³em dzieci. Mam dobre uk³ady ze wszystkimi by³ymi ¿onami. Niestety, rozje¿d¿aliœmy siê, k³ótnie, awantury, po co by³o siê mêczyæ. Ostatnia moja kobieta jest germanistk¹. Byliœmy razem przez siedem lat, nawet zarêczy³em siê z ni¹. Pó³tora roku temu rozstaliœmy siê. Mia³em dosyæ” – powiedzia³ Niemczyk.
+
+”Zastanawiam siê, czy ja chcê jeszcze babê w domu. Mam ich doœæ. Postanowi³em uruchomiæ w ka¿dym mieœcie, do którego przyje¿d¿am, pogotowie seksualne. I dobrze mi z tym. Najlepsze s¹ mê¿atki. Nie ma k³opotów. Jestem bardzo zajêty, dlatego bra³em siatkarki za ¿ony. Wiêcej czasu spêdzaliœmy razem. (...) Teraz 7 lat by³em z bab¹, a ona okaza³a siê nieszczera. Chodzi³o jej tylko o ci¹gniêcie kasy. Dobrze, ¿e siê w porê obudzi³em” – doda³ Niemczyk.
+
+”We w³asnym zespole nie tykam ¿adnej. Mogê mieæ jak¹œ w innej dru¿ynie. W swojej nie chcê psuæ roboty. Takie dziewczyny podniecaj¹, ale ja na nie patrzê inaczej. Widzê w nich moje siatkarskie córki. Podniecaj¹ mnie du¿o brzydsze. Tak po prostu nastawi³em siê do nich psychicznie. Gdybym myœla³ o którejœ, ale to fajna d..., to bym z ni¹ poszed³ do ³ó¿ka. Ale stawia³oby to barierê w pracy. Nigdy nie mia³em z tym problemów, a trenowa³em wiele niez³ych lasek” – zakoñczy³ trener siatkarek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ed2k://|file|(ebook-pdf).-.SAMS.-.DB2.Developer's.Guide-Fourth.Edition.pdf|19726336|88C10C048CCE4015EE03D4CD171AB24D|/
+
+
+<a href="ed2k://|file|(ebook-pdf).-.SAMS.-.DB2.Developer's.Guide-Fourth.Edition.pdf|19726336|88C10C048CCE4015EE03D4CD171AB24D|/">(ebook-pdf) - SAMS - DB2 Developer's Guide-Fourth Edition.pdf</a>
+<a href="ed2k://|file|Sams.Teach.Yourself.DB2.Universal.Database.in.21.Days.--.SAM.pdf|3122730|53D41A6372EC05C6636B5B980B83E3ED|/">Sams Teach Yourself DB2 Universal Database in 21 Days -- SAM.pdf</a>
+
+
+Sams Teach Yourself DB2 Universal Database in 21 Days -- SAM.pdf
+SAMS - DB2 Developer's Guide-Fourth Edition
+
+MONITOR LG FLATRON-EZ T710PH 17" - 509.89
+ 
+
+
+
+DB2 Personal Edition
+Krótkie wprowadzenie
+
+
+BB := @If(Opinia_TM="1";"+";Opinia_TM="0";"-";"o");
+CC := @If(Opinia_TP="1";"+";Opinia_TP="0";"-";"o");
+DD := @If(Opinia_TG="1";"+";Opinia_TG="0";"-";"o");
+EE := @If(Wniosek_TM="1";"+";Wniosek_TM="0";"-";"o");
+
+FF := @If(Dyrektor_Dec="1";"+";Dyrektor_Dec="0";"-";"o");
+GG := @If(GeneralnyProjektantPodpis_Osoba!="";"+";GeneralnyProjektant!="";"-";"o");
+HH := @If(ProwadzacyGRIPodpis_1_Osoba!="";"+";ProwadzacyGRI!="";"-";"o");
+II := @If(ProwadzacyGRIPodpis_2_Osoba!="";"+";"o");
+
+K1 := @If(GPPrzegOferty_Osoba!="";"+";"o");
+K2 := @If(KSKPrzegOferty_Osoba!="";"+";"o");
+K3 := @If(GRIPrzegOferty_Osoba!="";"+";"o");
+K4 := @If(RPPrzegOferty_Osoba!="";"+";"o");
+
+BB&CC+DD+EE+" "+FF+GG+HH+II+" "+K1+K2+K3+K4;"123412"
+
+
+
+
+
+
+
+
+
+503153044
+
+Geograficzny system informacyjny, GIS (angielskie geographical information system), opracowany w Anglii system bazy danych zawieraj¹cy wszystkie informacje o terenie, stosowany przez gazownie, elektrownie, spó³ki telefoniczne do ewidencji kabli, przewodów, rur, wêz³ów, ³¹cznic, podstacji itd., u¿yteczny przy projektowaniu sieci urz¹dzeñ komunalnych i planowaniu ich remontów i rozbudowy. Stosowany równie¿ w Polsce
+
+
+
+
+
+Sub ZmienUsunObiekt
+	
+	Dim se As New NotesSession
+	Dim ws As New NotesUiWorkspace
+	Dim db As NotesDatabase
+	Dim doc As NotesDocument
+	Dim uidoc As NotesUiDocument
+	
+	Dim pdoc		As NotesDocument
+	Dim pdocunid	As String
+	Dim docunid	As String
+	Dim objName 	As String
+	
+	Dim tempmsg		As String
+	
+	Dim temp_prof_doc As NotesDocument
+	
+	On Error Goto ErrorHandler
+	
+	Set db = se.CurrentDatabase
+	Set uidoc = ws.CurrentDocument
+	Set doc = uidoc.document
+	Dim obj As Variant
+	
+	Set temp_prof_doc = db.GetProfileDocument("$TemporaryProfileForm", CanonicalUserName)
+	
+	pdocunid		= doc.UnidProfilDoc(0)
+	If GetDocByUnID( db, pdocUNID, pdoc ) <> 0 Then				
+		Exit Sub
+	End If
+	
+	temp_prof_doc.OLESubFormName = Right(doc.OLESubFormName(0), Len(doc.OLESubFormName(0))-3)
+	temp_prof_doc.OLESubFormNameDoc = temp_prof_doc.OLESubFormName
+	
+	temp_prof_doc.Temat = doc.Temat
+	
+	If doc.OLEAttachmentName(0)="" Then 		
+		temp_prof_doc.OLEAttachmentName = GetOLEAttachmentName(doc)
+	Else 
+		temp_prof_doc.OLEAttachmentName = doc.OLEAttachmentName
+	End If	
+	temp_prof_doc.ShowOLEAttachmentName = doc.ShowOLEAttachmentName
+	
+	'nic nie zaznaczamy
+	temp_prof_doc.DialogResult = ""
+	temp_prof_doc.Action = "2"
+	temp_prof_doc.SaveAsName = ""
+	
+	Call ws.DialogBox( "($$DialogZmienOLE)", _
+	True, True , True ,  False ,  False , False , "Wybór:", temp_prof_doc ,  True , True )
+	If temp_prof_doc.DialogResult(0) = "OK" Then
+		
+		If temp_prof_doc.Action(0)="2" And Trim(temp_prof_doc.OLESubFormName(0))="" Then
+			Msgbox "Musisz zaznaczyæ jaki obiekt wstawiæ!", 16, "Informacja"
+			Exit Sub				
+		End If
+		
+		If temp_prof_doc.Action(0)="4" And Trim(temp_prof_doc.SaveAsName(0))="" Then
+			Msgbox "Musisz podaæ nazwe pliku!", 16, "Informacja"
+			Exit Sub				
+		End If
+		
+		
+		
+		
+		If (temp_prof_doc.Action(0)="1") Or (temp_prof_doc.Action(0)="2") Or (temp_prof_doc.Action(0)="5") Then
+			'czy mo¿na zapisaæ			
+			If (InputValidationDoc( doc, pdoc, tempmsg, 1, Nothing ) <> 0) Then
+				Msgbox tempmsg,16,"Informacja"
+				Exit Sub
+			End If
+			
+			doc.SaveDocMode = "BACKOPERINPROGRESS-NOVALIDATION"
+			uidoc.AutoReload = False			
+			Call uidoc.Save	
+		End If
+		
+		
+		
+		If temp_prof_doc.Action(0)="1" Or temp_prof_doc.Action(0)="2" Then
+			'usuwanie obiektu	
+			
+			objName = GetObjName(doc.OLESubFormName(0))
+			Forall o In doc.EmbeddedObjects
+				If o.Name = objName Then
+					Set obj = o
+				End If
+			End Forall
+			
+			Call obj.Remove
+			Call doc.removeItem("OLE_RT")
+			Call doc.Save(True, True)
+			
+			
+			If temp_prof_doc.Action(0)="1" Then
+			'usuwamy obiekt	
+				doc.OLESubFormName = "PO_Pusty"			
+				Call UI_Save_Doc( ws, se, uidoc, doc, SR_SAVEDOC+SR_REOPEN+SR_EDITMODE )
+				
+			Elseif temp_prof_doc.Action(0)="2" Then
+			'zmianiamy czyli usuwamy i dajemy nowy
+				
+				Dim ole_rt As NotesRichTextItem
+				Dim object As NotesEmbeddedObject
+				Dim po_name As String
+				
+				po_name = "PO_"+temp_prof_doc.OLESubFormName(0)
+				doc.OLESubFormName = po_name
+				
+				Set ole_rt = New NotesRichTextItem( doc, "OLE_RT" )
+				
+				Set object = ole_rt.EmbedObject _
+				( EMBED_OBJECT, GetObjClass(po_name), "", GetObjName(po_name) )			
+				
+				Call UI_Save_Doc( ws, se, uidoc, doc, SR_SAVEDOC+SR_REOPEN+SR_EDITMODE )
+			End If
+			
+			
+		Elseif temp_prof_doc.Action(0)="3" Then
+			
+			
+			'zmiana nazwy za³acznika albo pokazywania go na dokumencie
+			doc.OLEAttachmentName = temp_prof_doc.OLEAttachmentName
+			doc.ShowOLEAttachmentName = temp_prof_doc.ShowOLEAttachmentName
+			Call uidoc.refresh
+		Elseif (temp_prof_doc.Action(0)="4") Or (temp_prof_doc.Action(0)="5") Then
+			Dim Appl	As Variant
+			Dim OLE As Variant	
+			Dim h As Variant
+			
+			Dim fn As String
+			Dim showAppl As Variant
+			
+			If getObjNameAndShowAppl(doc.OLESubFormName(0), objName, showAppl)<>0 Then Exit Sub
+			
+			If temp_prof_doc.Action(0)="4" Then
+				fn = temp_prof_doc.SaveAsName(0)
+			Else
+				fn = getTempDir+getOLEAttachmentName(doc)	
+			End If
+			
+			Forall o In doc.EmbeddedObjects
+				If o.Name = objName Then
+					Set OLE = o
+				End If
+			End Forall
+			
+			OLE.Activate( ShowAppl )
+			Set h = OLE.Object		
+			Set Appl	= h.Application
+			
+			If objName="Lotus 1-2-3" Then
+				Call h.SaveCopyAs()
+			Elseif objName="Lotus Word Pro 9" Then 
+				Call h.SaveAs(temp_prof_doc.SaveAsName(0))
+				Appl.Quit
+				h = Null
+				Appl = Null
+				OLE = Null
+			Elseif objName = "Microsoft Excel 2000" Or objName = "Microsoft Excel XP" Or objName = "Microsoft Word 2000" Or objName = "Microsoft Word XP" Then 
+				Call h.SaveAs(temp_prof_doc.SaveAsName(0))
+				Call Appl.Quit
+			End If
+			
+			If temp_prof_doc.Action(0)="5" Then
+				Dim rtitem As Variant
+				Set rtitem = doc.GetFirstItem( "RTBody" )
+				
+				Call rtitem.EmbedObject ( EMBED_ATTACHMENT, "", fn)
+				Kill fn
+				
+				Call UI_Save_Doc( ws, se, uidoc, doc, SR_SAVEDOC+SR_REOPEN+SR_EDITMODE )
+			End If
+		End If
+	End If
+	
+ExitFunc:
+	Exit Sub
+	
+ErrorHandler:
+	Messagebox "<OLERoutines.ZmienUsunObiekt>: " & Error & " " & Err & "/" & Erl, 16
+	Resume ExitFunc
+	
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sure - with a little help from Windows API:
+
+In the declarations enter the following:
+
+Declare Function GetTempPath Lib "kernel32" Alias "GetTempPathA" (Byval nSize As Long, Byval lpBuffer As String) As Long
+
+And add theese to functions:
+
+Public Function GetTempDir() As String
+
+Dim nSize As Long
+Dim tmp As String
+
+tmp = Space$(256)
+nSize = Len(tmp)
+Call GetTempPath(nSize, tmp)
+
+GetTempDir = TrimNull(tmp)
+
+End Function
+
+Function TrimNull(item As String)
+
+Dim pos As Integer
+
+'double check that there is a chr$(0) in the string 
+pos = Instr(item, Chr$(0)) 
+If pos Then
+TrimNull = Left$(item, pos - 1)
+Else
+TrimNull = item
+End If
+
+End Function
+
+And then all You have to do is call the function:
+
+Msgbox GetTempDir
+
+

@@ -1,0 +1,11 @@
+- Wprowadzenie mo¿liwoœci dowolnego definiowania widoków, analogicznie jak w stronie kontrahenta - nie budowa³em mechanizmów na Mojej stronie ale wiem ¿e to nie jest tak prosto budowane wiêc nie wiem czy w ogóle wprowadzenie takiego mechanizmu wchodzi w grê.
+- Zmieni³bym dzia³anie otwierania widoków - jeœli pracujê na Mojej Stronie oczekujê ¿e wszystkie (a przynajmniej wiêkszoœæ widoków) bêdzie otwierana w ramach Mojej strony. Dobrym przyk³adem s¹ Kategorie prywatne: otwieraja siê z nowej ramce a mog³yby w Mojej Stronie, podobnie Terminarz, Pulpit (tutaj da³bym dwie akcje Pulpit na Mojej Stronie i naomalne pokazanie pulpitu).
+- Doda³bym wyœwietlanie jakiœ dodatkowych informacji o uzytkowniku (stanowisko, dzia³).
+- Kalendarz - zrobi³bym tak jak Pocztê - wewn¹trz Mojej strony, byæ mo¿e wprowadzi³bym ikonki dla tych elementów
+- Jeœli otwierana by³aby strona dla innego u¿ytkownika doda³bym akcje wysy³ania poczty.
+- Doda³bym akcjê profil u¿ytkownik.
+- Poprawa (wprowadzenie) mechanizmu zaznaczaj¹cego jaki widok jest aktualnie wyœwietlany (aktualnie jest tak, ze czasami podœwietlone s¹ trzy elementy).
+- Raporty - (nie wiem czy aktualnie jest to mo¿liwe) uruchamianie raportów dla U¿ytkownika, przy³ad: mamy stworzony raport "Oferty stworzone przez wybranego u¿ytkownika", uruchomienie tego raportu z Mojej Strony powodowa³oby od razu wype³nieniem pola u¿ytkownika.
+
+
+
