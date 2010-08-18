@@ -1,4 +1,4 @@
-sdfgsdfgs
+dfghsdfgsdfgs
 df
 gsd
 fgs- Wprowadzenie mo¿liwoœci dowolnego definiowania widoków, analogicznie jak w stronie kontrahenta - nie budowa³em mechanizmów na Mojej stronie ale wiem ¿e to nie jest tak prosto budowane wiêc nie wiem czy w ogóle wprowadzenie takiego mechanizmu wchodzi w grê.
