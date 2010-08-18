@@ -1,4 +1,7 @@
-- Wprowadzenie mo¿liwoœci dowolnego definiowania widoków, analogicznie jak w stronie kontrahenta - nie budowa³em mechanizmów na Mojej stronie ale wiem ¿e to nie jest tak prosto budowane wiêc nie wiem czy w ogóle wprowadzenie takiego mechanizmu wchodzi w grê.
+sdfgsdfgs
+df
+gsd
+fgs- Wprowadzenie mo¿liwoœci dowolnego definiowania widoków, analogicznie jak w stronie kontrahenta - nie budowa³em mechanizmów na Mojej stronie ale wiem ¿e to nie jest tak prosto budowane wiêc nie wiem czy w ogóle wprowadzenie takiego mechanizmu wchodzi w grê.
 - Zmieni³bym dzia³anie otwierania widoków - jeœli pracujê na Mojej Stronie oczekujê ¿e wszystkie (a przynajmniej wiêkszoœæ widoków) bêdzie otwierana w ramach Mojej strony. Dobrym przyk³adem s¹ Kategorie prywatne: otwieraja siê z nowej ramce a mog³yby w Mojej Stronie, podobnie Terminarz, Pulpit (tutaj da³bym dwie akcje Pulpit na Mojej Stronie i naomalne pokazanie pulpitu).
 - Doda³bym wyœwietlanie jakiœ dodatkowych informacji o uzytkowniku (stanowisko, dzia³).
 - Kalendarz - zrobi³bym tak jak Pocztê - wewn¹trz Mojej strony, byæ mo¿e wprowadzi³bym ikonki dla tych elementów
